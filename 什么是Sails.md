@@ -1,6 +1,6 @@
-# What is Sails?
-> _**Note:** You are viewing the Sails.js v0.10.x documentation.  If you're looking for information on v0.9.x, please visit [here](http://09x.sailsjs.org)._
+# 什么是Sails？
 
+> _**注意:** 你查看的是Sails.js v0.9.0文档，如果你想查看v0.8.x文档，请访问[这里](http://09x.sailsjs.org)._
 
 Sails is, of course, a web framework.  But take a step back.  What does that mean?  Sometimes, when we refer to the "web", we mean the "front-end web."  We think of concepts like web standards, or HTML 5, or CSS 3; and frameworks like Backbone, or Angular, or jQuery.  Sails is not "that kind" of a web framework.  Sails works great with Angular and Backbone, but you would never use Sails _instead_ of those libraries.
 
